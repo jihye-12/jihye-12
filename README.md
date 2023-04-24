@@ -2,8 +2,11 @@
 
 ## 🤍 JIHYE 🤍
 
-<br />
 
+</div>
+<p align="center">
+<a href="https://astonishing-option-d04.notion.site/Hello-Jihye-49759606fc874d1dac15b8a1aac39e30"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+</p>
 <br>
 
 <div align="center">
