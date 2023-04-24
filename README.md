@@ -38,8 +38,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
 </p>
-<br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihye-12&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
 
 </div>
 <br />
